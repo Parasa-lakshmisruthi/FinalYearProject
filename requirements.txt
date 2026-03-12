@@ -1,0 +1,17 @@
+torch
+torchvision
+opencv-python==4.8.0.76
+pandas
+plotly
+mtcnn
+tqdm
+yacs
+scikit-learn
+seaborn
+face_alignment
+albumentations==0.4.6
+facenet-pytorch
+timm
+numpy<2.0
+streamlit
+tensorflow
